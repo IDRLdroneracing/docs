@@ -44,7 +44,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'IDRL Docs'
-copyright = u'2016, 1 Martian Way Corp.'
+copyright = u'2016, 1 Martian Way Corp'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
