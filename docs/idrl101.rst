@@ -7,7 +7,7 @@ Learning Resources
 .. toctree::
    :maxdepth: 2
 
-   whatisdroneracing
-   howtobuildaracingdrone
+   what-is-droneracing
+   how-to-build-racing-drone
    
    
