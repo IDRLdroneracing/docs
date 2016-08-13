@@ -4,10 +4,10 @@ IDRL Rules
 Official IDRL Rules for IIT Gandhinagar Event
 Live Doc at: https://docs.google.com/document/d/1ll7-ey3qv2HujaISfF2Q4Qn8wuOgyucwpkXpQ1KKD7w/edit
 
-#.Pilots must show Failsafe and Disarm Working at Registration Desk
-#.Pilots must carry digital or hard-copy of the front and back sides of their IDRL Pilot Cards
+* Pilots must show Failsafe and Disarm Working at Registration Desk
+* Pilots must carry digital or hard-copy of the front and back sides of their IDRL Pilot Cards
 
-#.Drone Specs:
+* Drone Specs:
   #.180mm to 260 mm motor to motor frame size diagonally
   #.Upto 6 inch prop allowed. No. of blades per prop is not restricted.
   #.Any material 
