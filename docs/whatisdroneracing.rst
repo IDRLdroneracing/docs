@@ -5,5 +5,5 @@ Drone racing has been a growing hobby over the past few years where pilots race 
 
 .. raw:: html
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/UaIvrDWrIWM" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Fpx9hT8wiss" frameborder="0" allowfullscreen></iframe>
    
