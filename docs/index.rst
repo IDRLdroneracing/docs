@@ -13,7 +13,20 @@ drone racing and the Indian Drone Racing League.
 This will also include the official rules, competition formats and other details of IDRL. 
 | The IDRL 101 is meant to be a comprehensive reference for beginner as well as experienced pilots 
   that covers the basics of drone racing and the technology behind it.
-|
+
+| A one, two, a one two three four
+    |
+    | Half a bee, philosophically,
+    |     must, *ipso facto*, half not be.
+    | But half the bee has got to be,
+    |     *vis a vis* its entity.  D'you see?
+    |
+    | But can a bee be said to be
+    |     or not to be an entire bee,
+    |         when half the bee is not a bee,
+    |             due to some ancient injury?
+    |
+    | Singing...
 
 Contents:
 
