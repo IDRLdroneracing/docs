@@ -21,4 +21,4 @@ Live Doc at: https://docs.google.com/document/d/1ll7-ey3qv2HujaISfF2Q4Qn8wuOgyuc
 * Frequency Assignments
 * Will the race organisers provide the VTX? Or do the pilots get one themselves..
 * One of the biggest problems will be if anyone intentionally and accidentally turns on their TX when someone on the same frequency is racing.. Such a situation needs to to be contained under any circumstance.. 
-*Judging Rules
+* Judging Rules
