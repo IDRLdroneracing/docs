@@ -12,9 +12,9 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-   :glob:
 
-   *
+   what-is-droneracing
+   how-to-build-racing-drone
 
 
 
