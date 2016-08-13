@@ -14,7 +14,7 @@ Contents:
    :maxdepth: 2
 
    idrl101
-   idrlrules
+   idrl-rules
 
 
 
