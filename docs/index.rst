@@ -7,6 +7,7 @@ IDRL - Indian Drone Racing League Docs
 ======================================
 
 Official Website of IDRL: `droneracingindia.com <http://droneracingindia.com>`_
+
 This site provides the official documentation and learning resources for everything related to 
 drone racing and the Indian Drone Racing League. 
 This will also include the official rules, competition formats and other details of IDRL. 
