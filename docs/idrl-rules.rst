@@ -8,6 +8,7 @@ Live Doc at: https://docs.google.com/document/d/1ll7-ey3qv2HujaISfF2Q4Qn8wuOgyuc
 * Pilots must carry digital or hard-copy of the front and back sides of their IDRL Pilot Cards
 
 * Drone Specs:
+
   * 180mm to 260 mm motor to motor frame size diagonally
   * Upto 6 inch prop allowed. No. of blades per prop is not restricted.
   * Any material 
