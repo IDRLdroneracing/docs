@@ -6,7 +6,7 @@
 IDRL - Indian Drone Racing League Docs
 ======================================
 
-This site is meant to provide the official documentation and learning resources for everything related to drone racing and the Indian Drone Racing League. This will also include the official rules, competition formats and other details of IDRL. The IDRL 101 is meant to be a comprehensive reference for beginner as well as experienced pilots that covers the basics of drone racing and the technology behind it.
+This site provides the official documentation and learning resources for everything related to drone racing and the Indian Drone Racing League. This will also include the official rules, competition formats and other details of IDRL. The IDRL 101 is meant to be a comprehensive reference for beginner as well as experienced pilots that covers the basics of drone racing and the technology behind it.
 
 Contents:
 
